@@ -1,0 +1,36 @@
+/* Class = "NSTextFieldCell"; title = "Email:"; ObjectID = "13"; */
+"13.title" = "E-mail:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "17"; */
+"17.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "HTML Embed Code"; ObjectID = "18"; */
+"18.title" = "Código HTML incorporado";
+
+/* Class = "NSMenuItem"; title = "Short URL"; ObjectID = "19"; */
+"19.title" = "URL curto";
+
+/* Class = "NSTextFieldCell"; title = "Folder:"; ObjectID = "20"; */
+"20.title" = "Pasta:";
+
+/* Class = "NSButtonCell"; title = "Allow commenting on Screencast.com"; ObjectID = "21"; */
+"21.title" = "Permitir comentários no Screencast.com";
+
+/* Class = "NSButtonCell"; title = "Notify me of new comments via email"; ObjectID = "22"; */
+"22.title" = "Avise-me por e-mail quando houver novos comentários";
+
+/* Class = "NSTextFieldCell"; title = "Clipboard contents:"; ObjectID = "23"; */
+"23.title" = "Conteúdo da área de transferência:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "25"; */
+"25.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; placeholderString = "<Need to log in>"; ObjectID = "26"; */
+"26.placeholderString" = "<É necessário fazer login>";
+
+/* Class = "NSButtonCell"; title = "Sign In..."; ObjectID = "27"; */
+"27.title" = "Iniciar sessão...";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Refresh the folder list"; ObjectID = "39"; */
+"39.ibShadowedToolTip" = "Atualizar a lista de pastas";
+

@@ -1,0 +1,21 @@
+/* Class = "NSWindow"; title = "Import From Dropbox"; ObjectID = "1"; */
+"1.title" = "从 Dropbox 导入";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "85"; */
+"85.headerCell.title" = "名称";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "88"; */
+"88.title" = "文本单元格";
+
+/* Class = "NSButtonCell"; title = "Select"; ObjectID = "93"; */
+"93.title" = "选择";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "95"; */
+"95.title" = "取消";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "108"; */
+"108.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "133"; */
+"133.title" = "文本单元格";
+

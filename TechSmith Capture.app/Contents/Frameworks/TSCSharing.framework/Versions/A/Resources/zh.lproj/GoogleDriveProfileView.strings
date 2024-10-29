@@ -1,0 +1,24 @@
+/* Class = "NSTextFieldCell"; title = "Account:"; ObjectID = "22"; */
+"22.title" = "帐户：";
+
+/* Class = "NSButtonCell"; title = "Sign In..."; ObjectID = "25"; */
+"25.title" = "登录...";
+
+/* Class = "NSTextFieldCell"; title = "Destination Folder:"; ObjectID = "198"; */
+"198.title" = "目标文件夹：";
+
+/* Class = "NSButtonCell"; title = "Ask for filename and location each time"; ObjectID = "211"; */
+"211.title" = "每次询问文件名和位置";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "283"; */
+"283.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Add Account..."; ObjectID = "284"; */
+"284.title" = "添加帐户...";
+
+/* Class = "NSButtonCell"; title = "Browse"; ObjectID = "316"; */
+"316.title" = "浏览";
+
+/* Class = "NSTextFieldCell"; placeholderString = "choose folder"; ObjectID = "331"; */
+"331.placeholderString" = "选择文件夹";
+

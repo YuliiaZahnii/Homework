@@ -1,0 +1,63 @@
+/* Class = "NSMenuItem"; title = "FTP URL"; ObjectID = "0oX-ab-ZHr"; */
+"0oX-ab-ZHr.title" = "FTP URL";
+
+/* Class = "NSButtonCell"; title = "[filehash]"; ObjectID = "1Bd-jQ-QJa"; */
+"1Bd-jQ-QJa.title" = "[ファイルハッシュ]";
+
+/* Class = "NSButtonCell"; title = "[filename]"; ObjectID = "3gO-aL-Zs8"; */
+"3gO-aL-Zs8.title" = "[ファイル名]";
+
+/* Class = "NSButtonCell"; title = "[date]"; ObjectID = "5Tg-bZ-mA5"; */
+"5Tg-bZ-mA5.title" = "[日付]";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "6AU-GD-zU1"; */
+"6AU-GD-zU1.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Custom Code"; ObjectID = "7L5-Lv-Bz7"; */
+"7L5-Lv-Bz7.title" = "カスタム コード";
+
+/* Class = "NSTextFieldCell"; title = "Server:"; ObjectID = "13"; */
+"13.title" = "サーバー:";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "17"; */
+"17.title" = "パスワード:";
+
+/* Class = "NSTextFieldCell"; title = "Directory:"; ObjectID = "19"; */
+"19.title" = "ディレクトリ:";
+
+/* Class = "NSTextFieldCell"; title = "Username:"; ObjectID = "21"; */
+"21.title" = "ユーザー名:";
+
+/* Class = "NSButtonCell"; title = "Store password in Keychain"; ObjectID = "45"; */
+"45.title" = "キーチェーンにパスワードを保存";
+
+/* Class = "NSButtonCell"; title = "Test"; ObjectID = "100"; */
+"100.title" = "テスト";
+
+/* Class = "NSTextFieldCell"; title = "Status message goes here. "; ObjectID = "103"; */
+"103.title" = "ステータス メッセージがここに入ります。 ";
+
+/* Class = "NSMenuItem"; title = "No Return Text"; ObjectID = "CLT-Yn-Z42"; */
+"CLT-Yn-Z42.title" = "返されるテキストなし";
+
+/* Class = "NSTextFieldCell"; title = "Custom clipboard code:"; ObjectID = "FZ6-oE-OuF"; */
+"FZ6-oE-OuF.title" = "カスタム クリップボード コード:";
+
+/* Class = "NSTextFieldCell"; title = "Snagit supplies content for the following tags in your custom code:"; ObjectID = "Jyl-BQ-qGM"; */
+"Jyl-BQ-qGM.title" = "Snagit は、カスタム コードで次のタグのコンテンツを提供します:";
+
+/* Class = "NSMenuItem"; title = "HTTP URL"; ObjectID = "gPQ-yE-4Jl"; */
+"gPQ-yE-4Jl.title" = "HTTP URL";
+
+/* Class = "NSTextFieldCell"; title = "Clipboard Contents:"; ObjectID = "ncG-hu-b9P"; */
+"ncG-hu-b9P.title" = "クリップボードの内容:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "21"; ObjectID = "ndO-2Z-dvc"; */
+"ndO-2Z-dvc.placeholderString" = "21";
+
+/* Class = "NSTextFieldCell"; placeholderString = "ftp://myftpserver.com/Folder/[filename]_[date]"; ObjectID = "uC4-lE-6Wn"; */
+"uC4-lE-6Wn.placeholderString" = "ftp://myftpserver.com/Folder/[ファイル名]_[日付]";
+
+/* Class = "NSTextFieldCell"; title = "Port:"; ObjectID = "uF7-sr-TUE"; */
+"uF7-sr-TUE.title" = "ポート:";
+

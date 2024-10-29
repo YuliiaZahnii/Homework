@@ -1,0 +1,24 @@
+/* Class = "NSTextFieldCell"; title = "Account:"; ObjectID = "22"; */
+"22.title" = "Cuenta:";
+
+/* Class = "NSButtonCell"; title = "Sign In..."; ObjectID = "25"; */
+"25.title" = "Iniciar sesión...";
+
+/* Class = "NSTextFieldCell"; title = "Destination Folder:"; ObjectID = "198"; */
+"198.title" = "Carpeta de destino:";
+
+/* Class = "NSButtonCell"; title = "Ask for filename and location each time"; ObjectID = "211"; */
+"211.title" = "Solicitar siempre el nombre de archivo y la ubicación";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "283"; */
+"283.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Add Account..."; ObjectID = "284"; */
+"284.title" = "Añadir cuenta...";
+
+/* Class = "NSButtonCell"; title = "Browse"; ObjectID = "316"; */
+"316.title" = "Examinar";
+
+/* Class = "NSTextFieldCell"; placeholderString = "choose folder"; ObjectID = "331"; */
+"331.placeholderString" = "elegir carpeta";
+

@@ -1,0 +1,24 @@
+/* Class = "NSButtonCell"; title = "Private (only specific YouTube users can view)"; ObjectID = "2tF-Ue-hW3"; */
+"2tF-Ue-hW3.title" = "Privado (solo pueden verlo usuarios concretos de YouTube)";
+
+/* Class = "NSButtonCell"; title = "Public (anyone can search for and view)"; ObjectID = "9cQ-iN-rui"; */
+"9cQ-iN-rui.title" = "Público (cualquier persona puede buscarlo y verlo)";
+
+/* Class = "NSTextFieldCell"; title = "Username:"; ObjectID = "21"; */
+"21.title" = "Nombre de usuario:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "<Need to log in>"; ObjectID = "266"; */
+"266.placeholderString" = "<Inicio de sesión obligatorio>";
+
+/* Class = "NSButtonCell"; title = "Change..."; ObjectID = "273"; */
+"273.title" = "Cambiar...";
+
+/* Class = "NSTextFieldCell"; title = "Privacy:"; ObjectID = "294"; */
+"294.title" = "Privacidad:";
+
+/* Class = "NSButtonCell"; title = "Unlisted (anyone with the link can view)"; ObjectID = "cSl-Pg-GtC"; */
+"cSl-Pg-GtC.title" = "Oculto (cualquier persona con el enlace puede verlo)";
+
+/* Class = "NSButtonCell"; title = "Ask for filename and location each time"; ObjectID = "eEo-RC-z6b"; */
+"eEo-RC-z6b.title" = "Solicitar siempre el nombre de archivo y la ubicación";
+

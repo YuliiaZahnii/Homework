@@ -1,0 +1,30 @@
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "0fv-Mb-cEr"; */
+"0fv-Mb-cEr.title" = "Abbrechen";
+
+/* Class = "NSTextFieldCell"; title = "Description:"; ObjectID = "BW2-UJ-ao7"; */
+"BW2-UJ-ao7.title" = "Beschreibung:";
+
+/* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "E5c-dg-9N3"; */
+"E5c-dg-9N3.title" = "Titel:";
+
+/* Class = "NSWindow"; title = "Share to YouTube"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Auf YouTube veröffentlichen";
+
+/* Class = "NSButtonCell"; title = "Upload"; ObjectID = "NSx-Nc-NmU"; */
+"NSx-Nc-NmU.title" = "Hochladen";
+
+/* Class = "NSButtonCell"; title = "Public (anyone can search for and view)"; ObjectID = "OH8-cg-Rrh"; */
+"OH8-cg-Rrh.title" = "Öffentlich (kann von allen gesucht und angezeigt werden)";
+
+/* Class = "NSTextFieldCell"; title = "Privacy:"; ObjectID = "iLQ-6T-K19"; */
+"iLQ-6T-K19.title" = "Datenschutz:";
+
+/* Class = "NSButtonCell"; title = "Ask for filename and location each time"; ObjectID = "keH-0b-sX7"; */
+"keH-0b-sX7.title" = "Immer nach Dateiname und Speicherort fragen";
+
+/* Class = "NSButtonCell"; title = "Unlisted (anyone with the link can view)"; ObjectID = "mqr-jy-96K"; */
+"mqr-jy-96K.title" = "Nicht gelistet (für alle Benutzer zugänglich, die über den Link verfügen)";
+
+/* Class = "NSButtonCell"; title = "Private (only specific YouTube users can view)"; ObjectID = "odk-QD-ElO"; */
+"odk-QD-ElO.title" = "Privat (Nur für bestimmte YouTube-Benutzer zugänglich)";
+

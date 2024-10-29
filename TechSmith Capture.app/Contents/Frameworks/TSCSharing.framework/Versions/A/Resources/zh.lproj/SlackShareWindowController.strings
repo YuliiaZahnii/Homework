@@ -1,0 +1,21 @@
+/* Class = "NSTextFieldCell"; title = "Share to:"; ObjectID = "CVl-NL-3A5"; */
+"CVl-NL-3A5.title" = "分享至：";
+
+/* Class = "NSWindow"; title = "Share to Slack"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "分享至 Slack";
+
+/* Class = "NSTextFieldCell"; title = "Workspace:"; ObjectID = "OwU-YA-Gxn"; */
+"OwU-YA-Gxn.title" = "工作区：";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "asQ-hQ-bQB"; */
+"asQ-hQ-bQB.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Message:"; ObjectID = "hrL-WL-qiW"; */
+"hrL-WL-qiW.title" = "消息：";
+
+/* Class = "NSButtonCell"; title = "Share"; ObjectID = "qbn-Ef-cHF"; */
+"qbn-Ef-cHF.title" = "分享";
+
+/* Class = "NSTextFieldCell"; title = "Account:"; ObjectID = "tqb-tD-MOs"; */
+"tqb-tD-MOs.title" = "帐户：";
+

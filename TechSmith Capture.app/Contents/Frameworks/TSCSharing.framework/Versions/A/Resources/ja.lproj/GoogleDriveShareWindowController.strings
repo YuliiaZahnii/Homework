@@ -1,0 +1,45 @@
+/* Class = "NSTextFieldCell"; placeholderString = "choose folder"; ObjectID = "0Ib-3W-5ae"; */
+"0Ib-3W-5ae.placeholderString" = "フォルダーを選択";
+
+/* Class = "NSWindow"; title = "Share to GoogleDrive"; ObjectID = "1"; */
+"1.title" = "Google ドライブで共有";
+
+/* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "151"; */
+"151.title" = "タイトル:";
+
+/* Class = "NSTextFieldCell"; title = "Collection:"; ObjectID = "152"; */
+"152.title" = "コレクション:";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "155"; */
+"155.title" = "項目 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "156"; */
+"156.title" = "項目 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "157"; */
+"157.title" = "項目 3";
+
+/* Class = "NSTextFieldCell"; title = "Description:"; ObjectID = "158"; */
+"158.title" = "説明:";
+
+/* Class = "NSTextFieldCell"; title = "Destination Folder:"; ObjectID = "172"; */
+"172.title" = "宛先フォルダー:";
+
+/* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "178"; */
+"178.title" = "タイトル:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "297"; */
+"297.title" = "キャンセル";
+
+/* Class = "NSButtonCell"; title = "Upload"; ObjectID = "298"; */
+"298.title" = "アップロード";
+
+/* Class = "NSButtonCell"; title = "Ask for filename and location each time"; ObjectID = "351"; */
+"351.title" = "ファイル名と場所を毎回確認する";
+
+/* Class = "NSTextFieldCell"; title = "Account:"; ObjectID = "369"; */
+"369.title" = "アカウント:";
+
+/* Class = "NSButtonCell"; title = "Browse"; ObjectID = "atN-ve-hVE"; */
+"atN-ve-hVE.title" = "参照";
+

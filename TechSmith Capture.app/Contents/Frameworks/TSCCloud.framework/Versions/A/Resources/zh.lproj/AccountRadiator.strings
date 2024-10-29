@@ -1,0 +1,15 @@
+/* Class = "NSTextFieldCell"; title = "Sign In"; ObjectID = "1im-1s-cF3"; */
+"1im-1s-cF3.title" = "登录";
+
+/* Class = "NSButtonCell"; title = "See Details >"; ObjectID = "GwI-l8-IHK"; */
+"GwI-l8-IHK.title" = "详细信息 >";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "IIn-i3-Xcf"; */
+"IIn-i3-Xcf.title" = "窗口";
+
+/* Class = "NSTextFieldCell"; title = "Sign in for More Information"; ObjectID = "dHy-v3-zlh"; */
+"dHy-v3-zlh.title" = "登录以了解更多";
+
+/* Class = "NSButtonCell"; title = "Sign in >"; ObjectID = "iHz-zx-W3c"; */
+"iHz-zx-W3c.title" = "登录 >";
+

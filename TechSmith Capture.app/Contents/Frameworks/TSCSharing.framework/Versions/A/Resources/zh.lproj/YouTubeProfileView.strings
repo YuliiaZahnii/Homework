@@ -1,0 +1,24 @@
+/* Class = "NSButtonCell"; title = "Private (only specific YouTube users can view)"; ObjectID = "2tF-Ue-hW3"; */
+"2tF-Ue-hW3.title" = "私人（只有特定的 YouTube 用户可以查看）";
+
+/* Class = "NSButtonCell"; title = "Public (anyone can search for and view)"; ObjectID = "9cQ-iN-rui"; */
+"9cQ-iN-rui.title" = "公开（任何人都可以搜索和查看）";
+
+/* Class = "NSTextFieldCell"; title = "Username:"; ObjectID = "21"; */
+"21.title" = "用户名：";
+
+/* Class = "NSTextFieldCell"; placeholderString = "<Need to log in>"; ObjectID = "266"; */
+"266.placeholderString" = "<需要登录>";
+
+/* Class = "NSButtonCell"; title = "Change..."; ObjectID = "273"; */
+"273.title" = "更改...";
+
+/* Class = "NSTextFieldCell"; title = "Privacy:"; ObjectID = "294"; */
+"294.title" = "隐私：";
+
+/* Class = "NSButtonCell"; title = "Unlisted (anyone with the link can view)"; ObjectID = "cSl-Pg-GtC"; */
+"cSl-Pg-GtC.title" = "未列名（获取链接的人都可以查看）";
+
+/* Class = "NSButtonCell"; title = "Ask for filename and location each time"; ObjectID = "eEo-RC-z6b"; */
+"eEo-RC-z6b.title" = "每次询问文件名和位置";
+

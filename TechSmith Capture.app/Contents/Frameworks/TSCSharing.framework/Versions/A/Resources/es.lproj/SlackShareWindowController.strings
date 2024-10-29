@@ -1,0 +1,21 @@
+/* Class = "NSTextFieldCell"; title = "Share to:"; ObjectID = "CVl-NL-3A5"; */
+"CVl-NL-3A5.title" = "Compartir en:";
+
+/* Class = "NSWindow"; title = "Share to Slack"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Compartir en Slack";
+
+/* Class = "NSTextFieldCell"; title = "Workspace:"; ObjectID = "OwU-YA-Gxn"; */
+"OwU-YA-Gxn.title" = "Espacio de trabajo:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "asQ-hQ-bQB"; */
+"asQ-hQ-bQB.title" = "Cancelar";
+
+/* Class = "NSTextFieldCell"; title = "Message:"; ObjectID = "hrL-WL-qiW"; */
+"hrL-WL-qiW.title" = "Mensaje:";
+
+/* Class = "NSButtonCell"; title = "Share"; ObjectID = "qbn-Ef-cHF"; */
+"qbn-Ef-cHF.title" = "Compartir";
+
+/* Class = "NSTextFieldCell"; title = "Account:"; ObjectID = "tqb-tD-MOs"; */
+"tqb-tD-MOs.title" = "Cuenta:";
+

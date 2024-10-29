@@ -1,0 +1,24 @@
+/* Class = "NSTextFieldCell"; placeholderString = "choose folder"; ObjectID = "0Ib-3W-5ae"; */
+"0Ib-3W-5ae.placeholderString" = "choisir le dossier";
+
+/* Class = "NSWindow"; title = "Share to Dropbox"; ObjectID = "1"; */
+"1.title" = "Partager sur Dropbox";
+
+/* Class = "NSTextFieldCell"; title = "Destination Folder:"; ObjectID = "172"; */
+"172.title" = "Dossier de destination :";
+
+/* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "178"; */
+"178.title" = "Titre :";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "297"; */
+"297.title" = "Annuler";
+
+/* Class = "NSButtonCell"; title = "Upload"; ObjectID = "298"; */
+"298.title" = "Télécharger";
+
+/* Class = "NSButtonCell"; title = "Ask for filename and location each time"; ObjectID = "351"; */
+"351.title" = "Toujours demander le nom et l’emplacement";
+
+/* Class = "NSButtonCell"; title = "Browse"; ObjectID = "atN-ve-hVE"; */
+"atN-ve-hVE.title" = "Parcourir";
+

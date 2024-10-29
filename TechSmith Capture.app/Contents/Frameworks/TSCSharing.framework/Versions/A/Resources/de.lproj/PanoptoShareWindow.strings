@@ -1,0 +1,18 @@
+/* Class = "NSButtonCell"; title = "Share..."; ObjectID = "2I6-dt-6qR"; */
+"2I6-dt-6qR.title" = "Weitergeben...";
+
+/* Class = "NSTextFieldCell"; title = "Title is required"; ObjectID = "3QU-Wt-fIe"; */
+"3QU-Wt-fIe.title" = "Es muss ein Titel eingegeben werden";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Iq5-gO-pPQ"; */
+"Iq5-gO-pPQ.title" = "Abbrechen";
+
+/* Class = "NSWindow"; title = "Panopto"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "Panopto";
+
+/* Class = "NSTextFieldCell"; title = "Description:"; ObjectID = "lfV-j1-RdR"; */
+"lfV-j1-RdR.title" = "Beschreibung:";
+
+/* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "mpL-rh-CF3"; */
+"mpL-rh-CF3.title" = "Titel:";
+

@@ -1,0 +1,18 @@
+/* Class = "NSTextFieldCell"; title = "Download assets (intros, music, and more) from the TechSmith Assets website."; ObjectID = "9vF-Po-0wF"; */
+"9vF-Po-0wF.title" = "Puedes descargar activos (introducciones, música, etc.) desde TechSmith Assets.";
+
+/* Class = "NSButtonCell"; title = "Download More Assets"; ObjectID = "Nud-fr-RWH"; */
+"Nud-fr-RWH.title" = "Descargar más activos";
+
+/* Class = "NSTextFieldCell"; title = "Status"; ObjectID = "W1j-tB-1RJ"; */
+"W1j-tB-1RJ.title" = "Estado";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Xor-Ka-hz4"; */
+"Xor-Ka-hz4.title" = "Celda de texto";
+
+/* Class = "NSTextFieldCell"; title = "Filename"; ObjectID = "jw8-q7-P1Q"; */
+"jw8-q7-P1Q.title" = "Nombre de archivo";
+
+/* Class = "NSTextFieldCell"; title = "Downloads"; ObjectID = "uiK-Q0-mT9"; */
+"uiK-Q0-mT9.title" = "Descargas";
+

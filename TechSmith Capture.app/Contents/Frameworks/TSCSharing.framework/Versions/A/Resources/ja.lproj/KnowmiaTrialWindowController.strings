@@ -1,0 +1,12 @@
+/* Class = "NSWindow"; title = "Share to Knowmia"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Knowmia で共有";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "VZ9-E8-mMW"; */
+"VZ9-E8-mMW.title" = "キャンセル";
+
+/* Class = "NSTextFieldCell"; title = "Create and share accessible media that engages viewers and maintains a human connection."; ObjectID = "c0s-tL-RXN"; */
+"c0s-tL-RXN.title" = "視聴者を引き付け、人とのつながりを維持するアクセス可能なメディアを作成して共有します。";
+
+/* Class = "NSButtonCell"; title = "Learn More..."; ObjectID = "qAx-Gh-qrX"; */
+"qAx-Gh-qrX.title" = "詳細情報...";
+

@@ -1,0 +1,24 @@
+/* Class = "NSTextFieldCell"; placeholderString = "choose folder"; ObjectID = "0Ib-3W-5ae"; */
+"0Ib-3W-5ae.placeholderString" = "选择文件夹";
+
+/* Class = "NSWindow"; title = "Share to Box"; ObjectID = "1"; */
+"1.title" = "分享到邮箱";
+
+/* Class = "NSTextFieldCell"; title = "Destination Folder:"; ObjectID = "172"; */
+"172.title" = "目标文件夹：";
+
+/* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "178"; */
+"178.title" = "标题：";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "297"; */
+"297.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Upload"; ObjectID = "298"; */
+"298.title" = "上传";
+
+/* Class = "NSButtonCell"; title = "Ask for filename and location each time"; ObjectID = "351"; */
+"351.title" = "每次询问文件名和位置";
+
+/* Class = "NSButtonCell"; title = "Browse"; ObjectID = "atN-ve-hVE"; */
+"atN-ve-hVE.title" = "浏览";
+

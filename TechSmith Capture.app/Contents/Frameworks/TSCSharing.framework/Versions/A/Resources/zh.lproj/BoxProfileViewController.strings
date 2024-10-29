@@ -1,0 +1,18 @@
+/* Class = "NSTextFieldCell"; placeholderString = "choose folder"; ObjectID = "FXc-PE-GKd"; */
+"FXc-PE-GKd.placeholderString" = "选择文件夹";
+
+/* Class = "NSTextFieldCell"; title = "Destination Folder:"; ObjectID = "K8D-dE-iQB"; */
+"K8D-dE-iQB.title" = "目标文件夹：";
+
+/* Class = "NSButtonCell"; title = "Sign In..."; ObjectID = "RuS-Lk-ZY9"; */
+"RuS-Lk-ZY9.title" = "登录...";
+
+/* Class = "NSTextFieldCell"; title = "Account:"; ObjectID = "gRL-2w-7Qf"; */
+"gRL-2w-7Qf.title" = "帐户：";
+
+/* Class = "NSButtonCell"; title = "Ask for filename and location each time"; ObjectID = "hl0-0b-ibj"; */
+"hl0-0b-ibj.title" = "每次询问文件名和位置";
+
+/* Class = "NSButtonCell"; title = "Browse"; ObjectID = "vRd-vi-DXm"; */
+"vRd-vi-DXm.title" = "浏览";
+

@@ -1,0 +1,12 @@
+/* Class = "NSTextFieldCell"; title = "Account:"; ObjectID = "7eP-c9-wTB"; */
+"7eP-c9-wTB.title" = "Cuenta:";
+
+/* Class = "NSTextFieldCell"; title = "Workspace:"; ObjectID = "Q7M-52-MJ5"; */
+"Q7M-52-MJ5.title" = "Espacio de trabajo:";
+
+/* Class = "NSButtonCell"; title = "Sign In..."; ObjectID = "kOb-tA-fWB"; */
+"kOb-tA-fWB.title" = "Iniciar sesión...";
+
+/* Class = "NSTextFieldCell"; title = "Share to:"; ObjectID = "uev-4z-4wd"; */
+"uev-4z-4wd.title" = "Compartir en:";
+

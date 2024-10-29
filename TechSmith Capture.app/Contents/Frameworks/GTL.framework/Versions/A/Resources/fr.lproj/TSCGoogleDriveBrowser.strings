@@ -1,0 +1,45 @@
+/* Class = "NSWindow"; title = "Import From Google Drive"; ObjectID = "1"; */
+"1.title" = "Importer de Google Drive";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "85"; */
+"85.headerCell.title" = "Nom";
+
+/* Class = "NSTableColumn"; headerCell.title = "Date Modified"; ObjectID = "86"; */
+"86.headerCell.title" = "Date de modification";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "87"; */
+"87.title" = "Cellule de texte";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "88"; */
+"88.title" = "Cellule de texte";
+
+/* Class = "NSButtonCell"; title = "Import"; ObjectID = "93"; */
+"93.title" = "Importer";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "95"; */
+"95.title" = "Annuler";
+
+/* Class = "NSTableColumn"; headerCell.title = "Size"; ObjectID = "100"; */
+"100.headerCell.title" = "Taille";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "101"; */
+"101.title" = "Cellule de texte";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "108"; */
+"108.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "133"; */
+"133.title" = "Cellule de texte";
+
+/* Class = "NSTextFieldCell"; title = "(change user)"; ObjectID = "154"; */
+"154.title" = "(changer d’utilisateur)";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "178"; */
+"178.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Add Account..."; ObjectID = "179"; */
+"179.title" = "Ajouter un compte...";
+
+/* Class = "NSButtonCell"; title = "Sign out"; ObjectID = "195"; */
+"195.title" = "Se déconnecter";
+

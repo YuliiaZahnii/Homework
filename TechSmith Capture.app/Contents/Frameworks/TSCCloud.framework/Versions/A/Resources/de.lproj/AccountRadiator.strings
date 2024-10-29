@@ -1,0 +1,21 @@
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "7Rd-hB-ozM"; */
+"7Rd-hB-ozM.title" = "Beschriftung";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "IIn-i3-Xcf"; */
+"IIn-i3-Xcf.title" = "Fenster";
+
+/* Class = "NSButtonCell"; title = "View Benefits"; ObjectID = "bIb-dt-pgG"; */
+"bIb-dt-pgG.title" = "Vorteile ansehen";
+
+/* Class = "NSTextFieldCell"; title = "Sign in for More Information"; ObjectID = "dHy-v3-zlh"; */
+"dHy-v3-zlh.title" = "Melden Sie sich an, um weitere Informationen zu erhalten";
+
+/* Class = "NSButtonCell"; title = "Sign in >"; ObjectID = "iHz-zx-W3c"; */
+"iHz-zx-W3c.title" = "Anmelden >";
+
+/* Class = "NSTextFieldCell"; placeholderString = "22"; ObjectID = "xO3-dA-l5X"; */
+"xO3-dA-l5X.placeholderString" = "22";
+
+/* Class = "NSButtonCell"; title = "Sign in"; ObjectID = "zde-S9-jbS"; */
+"zde-S9-jbS.title" = "Anmelden";
+

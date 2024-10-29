@@ -1,0 +1,45 @@
+/* Class = "NSTextFieldCell"; placeholderString = "choose folder"; ObjectID = "0Ib-3W-5ae"; */
+"0Ib-3W-5ae.placeholderString" = "escolher pasta";
+
+/* Class = "NSWindow"; title = "Share to GoogleDrive"; ObjectID = "1"; */
+"1.title" = "Compartilhar no Google Drive";
+
+/* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "151"; */
+"151.title" = "Título:";
+
+/* Class = "NSTextFieldCell"; title = "Collection:"; ObjectID = "152"; */
+"152.title" = "Coleção:";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "155"; */
+"155.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "156"; */
+"156.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "157"; */
+"157.title" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Description:"; ObjectID = "158"; */
+"158.title" = "Descrição:";
+
+/* Class = "NSTextFieldCell"; title = "Destination Folder:"; ObjectID = "172"; */
+"172.title" = "Pasta de destino:";
+
+/* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "178"; */
+"178.title" = "Título:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "297"; */
+"297.title" = "Cancelar";
+
+/* Class = "NSButtonCell"; title = "Upload"; ObjectID = "298"; */
+"298.title" = "Carregar";
+
+/* Class = "NSButtonCell"; title = "Ask for filename and location each time"; ObjectID = "351"; */
+"351.title" = "Sempre perguntar o nome do arquivo e a localização";
+
+/* Class = "NSTextFieldCell"; title = "Account:"; ObjectID = "369"; */
+"369.title" = "Conta:";
+
+/* Class = "NSButtonCell"; title = "Browse"; ObjectID = "atN-ve-hVE"; */
+"atN-ve-hVE.title" = "Procurar";
+

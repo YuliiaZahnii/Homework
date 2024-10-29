@@ -1,0 +1,30 @@
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "0fv-Mb-cEr"; */
+"0fv-Mb-cEr.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Description:"; ObjectID = "BW2-UJ-ao7"; */
+"BW2-UJ-ao7.title" = "描述：";
+
+/* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "E5c-dg-9N3"; */
+"E5c-dg-9N3.title" = "标题：";
+
+/* Class = "NSWindow"; title = "Share to YouTube"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "分享至 YouTube";
+
+/* Class = "NSButtonCell"; title = "Upload"; ObjectID = "NSx-Nc-NmU"; */
+"NSx-Nc-NmU.title" = "上传";
+
+/* Class = "NSButtonCell"; title = "Public (anyone can search for and view)"; ObjectID = "OH8-cg-Rrh"; */
+"OH8-cg-Rrh.title" = "公开（任何人都可以搜索和查看）";
+
+/* Class = "NSTextFieldCell"; title = "Privacy:"; ObjectID = "iLQ-6T-K19"; */
+"iLQ-6T-K19.title" = "隐私：";
+
+/* Class = "NSButtonCell"; title = "Ask for filename and location each time"; ObjectID = "keH-0b-sX7"; */
+"keH-0b-sX7.title" = "每次询问文件名和位置";
+
+/* Class = "NSButtonCell"; title = "Unlisted (anyone with the link can view)"; ObjectID = "mqr-jy-96K"; */
+"mqr-jy-96K.title" = "未列名（获取链接的人都可以查看）";
+
+/* Class = "NSButtonCell"; title = "Private (only specific YouTube users can view)"; ObjectID = "odk-QD-ElO"; */
+"odk-QD-ElO.title" = "私人（只有特定的 YouTube 用户可以查看）";
+

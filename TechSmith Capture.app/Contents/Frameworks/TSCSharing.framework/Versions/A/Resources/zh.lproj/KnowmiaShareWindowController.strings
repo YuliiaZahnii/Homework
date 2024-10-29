@@ -1,0 +1,21 @@
+/* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "2XU-cu-H8x"; */
+"2XU-cu-H8x.title" = "标题：";
+
+/* Class = "NSWindow"; title = "Share to Knowmia"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "分享到 Knowmia";
+
+/* Class = "NSTextFieldCell"; title = "Upload your image or video to Knowmia. The URL will be copied to the clipboard."; ObjectID = "T82-1l-rqB"; */
+"T82-1l-rqB.title" = "上传图片或视频到 Knowmia。URL将复制到剪贴板上。";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "asQ-hQ-bQB"; */
+"asQ-hQ-bQB.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Description:"; ObjectID = "hrL-WL-qiW"; */
+"hrL-WL-qiW.title" = "描述：";
+
+/* Class = "NSButtonCell"; title = "Share"; ObjectID = "qbn-Ef-cHF"; */
+"qbn-Ef-cHF.title" = "分享";
+
+/* Class = "NSTextFieldCell"; title = "Destination:"; ObjectID = "tqb-tD-MOs"; */
+"tqb-tD-MOs.title" = "目的地：";
+

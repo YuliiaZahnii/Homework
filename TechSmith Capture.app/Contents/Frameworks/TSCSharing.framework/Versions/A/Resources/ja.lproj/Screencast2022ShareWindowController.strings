@@ -1,0 +1,21 @@
+/* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "2XU-cu-H8x"; */
+"2XU-cu-H8x.title" = "タイトル:";
+
+/* Class = "NSWindow"; title = "Share to Screencast"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Screencast で共有する";
+
+/* Class = "NSTextFieldCell"; title = "Upload your image or video to Screencast. The URL will be copied to the clipboard."; ObjectID = "T82-1l-rqB"; */
+"T82-1l-rqB.title" = "Screencast に画像やビデオをアップロードします。URL はクリップボードにコピーされます。";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "asQ-hQ-bQB"; */
+"asQ-hQ-bQB.title" = "キャンセル";
+
+/* Class = "NSTextFieldCell"; title = "Description:"; ObjectID = "hrL-WL-qiW"; */
+"hrL-WL-qiW.title" = "説明:";
+
+/* Class = "NSButtonCell"; title = "Share"; ObjectID = "qbn-Ef-cHF"; */
+"qbn-Ef-cHF.title" = "共有";
+
+/* Class = "NSTextFieldCell"; title = "Destination:"; ObjectID = "tqb-tD-MOs"; */
+"tqb-tD-MOs.title" = "宛先:";
+

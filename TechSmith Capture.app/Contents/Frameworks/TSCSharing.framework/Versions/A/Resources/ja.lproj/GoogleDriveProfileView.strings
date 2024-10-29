@@ -1,0 +1,24 @@
+/* Class = "NSTextFieldCell"; title = "Account:"; ObjectID = "22"; */
+"22.title" = "アカウント:";
+
+/* Class = "NSButtonCell"; title = "Sign In..."; ObjectID = "25"; */
+"25.title" = "サインイン...";
+
+/* Class = "NSTextFieldCell"; title = "Destination Folder:"; ObjectID = "198"; */
+"198.title" = "宛先フォルダー:";
+
+/* Class = "NSButtonCell"; title = "Ask for filename and location each time"; ObjectID = "211"; */
+"211.title" = "ファイル名と場所を毎回確認する";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "283"; */
+"283.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Add Account..."; ObjectID = "284"; */
+"284.title" = "アカウントを追加...";
+
+/* Class = "NSButtonCell"; title = "Browse"; ObjectID = "316"; */
+"316.title" = "参照";
+
+/* Class = "NSTextFieldCell"; placeholderString = "choose folder"; ObjectID = "331"; */
+"331.placeholderString" = "フォルダーを選択";
+

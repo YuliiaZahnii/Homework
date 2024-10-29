@@ -1,0 +1,21 @@
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "7By-Cv-05j"; */
+"7By-Cv-05j.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Select"; ObjectID = "9sS-gI-RJj"; */
+"9sS-gI-RJj.title" = "Selecionar";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "69Q-L9-aPC"; */
+"69Q-L9-aPC.title" = "Cancelar";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "MES-JE-EUR"; */
+"MES-JE-EUR.title" = "Célula de texto";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "MRf-hn-yvi"; */
+"MRf-hn-yvi.title" = "Célula de texto";
+
+/* Class = "NSWindow"; title = "Select Destination Folder"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "Selecionar pasta de destino";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "sSB-5G-QZD"; */
+"sSB-5G-QZD.headerCell.title" = "Nome";
+

@@ -1,0 +1,27 @@
+/* Class = "NSButton"; ibShadowedToolTip = "Select color from image"; ObjectID = "32"; */
+"32.ibShadowedToolTip" = "Seleccionar color desde la imagen";
+
+/* Class = "NSButtonCell"; title = "RGB"; ObjectID = "75"; */
+"75.title" = "RVA";
+
+/* Class = "NSTextFieldCell"; title = "R:"; ObjectID = "97"; */
+"97.title" = "R:";
+
+/* Class = "NSTextFieldCell"; title = "G:"; ObjectID = "99"; */
+"99.title" = "V:";
+
+/* Class = "NSTextFieldCell"; title = "B:"; ObjectID = "101"; */
+"101.title" = "A:";
+
+/* Class = "NSTextFieldCell"; title = "Hex:"; ObjectID = "104"; */
+"104.title" = "Hex:";
+
+/* Class = "NSMenuItem"; title = "Solid Color Fill"; ObjectID = "eO5-1z-kcu"; */
+"eO5-1z-kcu.title" = "Relleno de color sólido";
+
+/* Class = "NSTextFieldCell"; title = "My Colors"; ObjectID = "q2m-uF-8WU"; */
+"q2m-uF-8WU.title" = "Mis colores";
+
+/* Class = "NSMenuItem"; title = "Gradient Color Fill"; ObjectID = "t5f-tU-YYE"; */
+"t5f-tU-YYE.title" = "Relleno de color degradado";
+

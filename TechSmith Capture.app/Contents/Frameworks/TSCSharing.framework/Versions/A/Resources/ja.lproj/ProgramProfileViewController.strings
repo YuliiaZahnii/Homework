@@ -1,0 +1,9 @@
+/* Class = "NSTextFieldCell"; title = "Snagit"; ObjectID = "4nB-V0-PAR"; */
+"4nB-V0-PAR.title" = "Snagit";
+
+/* Class = "NSButtonCell"; title = "Choose Application"; ObjectID = "JW9-z1-vHC"; */
+"JW9-z1-vHC.title" = "アプリケーションの選択";
+
+/* Class = "NSTextFieldCell"; title = "Application to Share to:"; ObjectID = "OKo-E3-CFI"; */
+"OKo-E3-CFI.title" = "共有先アプリケーション:";
+

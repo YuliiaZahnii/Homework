@@ -1,0 +1,24 @@
+/* Class = "NSButtonCell"; title = "Use last folder"; ObjectID = "01I-pQ-sYi"; */
+"01I-pQ-sYi.title" = "使用最后一个文件夹";
+
+/* Class = "NSButtonCell"; title = "Fixed folder"; ObjectID = "4Tn-at-Tvg"; */
+"4Tn-at-Tvg.title" = "固定文件夹";
+
+/* Class = "NSButtonCell"; title = "Fixed file name"; ObjectID = "HNz-hu-Nle"; */
+"HNz-hu-Nle.title" = "固定文件名";
+
+/* Class = "NSButtonCell"; title = "Ask for file name"; ObjectID = "RxT-ND-mlJ"; */
+"RxT-ND-mlJ.title" = "要求提供文件名";
+
+/* Class = "NSTextFieldCell"; title = "⚠️ May overwrite existing files"; ObjectID = "Sca-JU-3IR"; */
+"Sca-JU-3IR.title" = "⚠️ 可能会覆盖现有文件";
+
+/* Class = "NSButtonCell"; title = "Automatic file name"; ObjectID = "UWu-e7-fAP"; */
+"UWu-e7-fAP.title" = "自动文件名";
+
+/* Class = "NSTextFieldCell"; title = "File name:"; ObjectID = "Z3Z-cG-C4L"; */
+"Z3Z-cG-C4L.title" = "文件名：";
+
+/* Class = "NSButtonCell"; title = "Browse..."; ObjectID = "ZYU-mw-u0Z"; */
+"ZYU-mw-u0Z.title" = "浏览...";
+

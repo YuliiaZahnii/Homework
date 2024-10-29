@@ -1,0 +1,24 @@
+/* Class = "NSButtonCell"; title = "Private (only specific YouTube users can view)"; ObjectID = "2tF-Ue-hW3"; */
+"2tF-Ue-hW3.title" = "非公開 (特定の YouTube ユーザーのみ閲覧可)";
+
+/* Class = "NSButtonCell"; title = "Public (anyone can search for and view)"; ObjectID = "9cQ-iN-rui"; */
+"9cQ-iN-rui.title" = "公開 (誰でも検索および閲覧可)";
+
+/* Class = "NSTextFieldCell"; title = "Username:"; ObjectID = "21"; */
+"21.title" = "ユーザー名:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "<Need to log in>"; ObjectID = "266"; */
+"266.placeholderString" = "<ログインが必要>";
+
+/* Class = "NSButtonCell"; title = "Change..."; ObjectID = "273"; */
+"273.title" = "変更...";
+
+/* Class = "NSTextFieldCell"; title = "Privacy:"; ObjectID = "294"; */
+"294.title" = "プライバシー:";
+
+/* Class = "NSButtonCell"; title = "Unlisted (anyone with the link can view)"; ObjectID = "cSl-Pg-GtC"; */
+"cSl-Pg-GtC.title" = "限定公開 (リンクを知っているすべてのユーザーが閲覧可)";
+
+/* Class = "NSButtonCell"; title = "Ask for filename and location each time"; ObjectID = "eEo-RC-z6b"; */
+"eEo-RC-z6b.title" = "ファイル名と場所を毎回確認する";
+

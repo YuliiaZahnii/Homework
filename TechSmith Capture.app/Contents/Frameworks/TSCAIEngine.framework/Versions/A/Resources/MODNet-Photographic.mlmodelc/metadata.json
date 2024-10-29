@@ -1,0 +1,80 @@
+[
+  {
+    "shortDescription" : "A conversion of MODNet that predicts a grayscale background-foreground mask.",
+    "metadataOutputVersion" : "3.0",
+    "outputSchema" : [
+      {
+        "height" : "512",
+        "colorspace" : "Grayscale",
+        "isOptional" : "0",
+        "width" : "512",
+        "isColor" : "0",
+        "formattedType" : "Image (Grayscale 512 × 512)",
+        "hasSizeFlexibility" : "0",
+        "type" : "Image",
+        "shortDescription" : "A grayscale representation of the background-foreground mask.",
+        "name" : "mask"
+      }
+    ],
+    "version" : "1.1",
+    "modelParameters" : [
+
+    ],
+    "author" : "Zhanghan Ke, Jiayu Sun, Kaican Li, Qiong Yan, Rynson W.H. Lau",
+    "specificationVersion" : 2,
+    "storagePrecision" : "Float16",
+    "license" : "Apache License 2.0",
+    "computePrecision" : "Float16",
+    "isUpdatable" : "0",
+    "availability" : {
+      "macOS" : "10.13.2",
+      "tvOS" : "11.2",
+      "watchOS" : "4.2",
+      "iOS" : "11.2",
+      "macCatalyst" : "11.2"
+    },
+    "modelType" : {
+      "name" : "MLModelType_neuralNetwork"
+    },
+    "inputSchema" : [
+      {
+        "height" : "512",
+        "colorspace" : "RGB",
+        "isOptional" : "0",
+        "width" : "512",
+        "isColor" : "1",
+        "formattedType" : "Image (Color 512 × 512)",
+        "hasSizeFlexibility" : "0",
+        "type" : "Image",
+        "shortDescription" : "The image for which to generate a background-foreground mask.",
+        "name" : "image"
+      }
+    ],
+    "userDefinedMetadata" : {
+      "Model source" : "github.com\/ZHKKKe\/MODNet",
+      "Paper source" : "arxiv.org\/pdf\/2011.11961.pdf",
+      "com.github.apple.coremltools.source" : "torch==1.10.2",
+      "com.github.apple.coremltools.version" : "6.1"
+    },
+    "generatedClassName" : "MODNet_Photographic",
+    "neuralNetworkLayerTypeHistogram" : {
+      "Slice" : 32,
+      "Concat" : 22,
+      "InnerProduct" : 2,
+      "Convolution" : 69,
+      "Clip" : 35,
+      "InstanceBatchNorm" : 16,
+      "ActivationSigmoid" : 2,
+      "ReshapeStatic" : 2,
+      "UpsampleBiLinear" : 8,
+      "Tile" : 1,
+      "Add" : 10,
+      "BatchNorm" : 16,
+      "Multiply" : 1,
+      "ActivationLinear" : 1,
+      "ActivationReLU" : 17,
+      "PoolingAverage" : 1
+    },
+    "method" : "predict"
+  }
+]

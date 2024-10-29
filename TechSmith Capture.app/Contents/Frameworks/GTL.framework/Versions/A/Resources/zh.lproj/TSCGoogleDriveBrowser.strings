@@ -1,0 +1,45 @@
+/* Class = "NSWindow"; title = "Import From Google Drive"; ObjectID = "1"; */
+"1.title" = "从 Google 中导入";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "85"; */
+"85.headerCell.title" = "名称";
+
+/* Class = "NSTableColumn"; headerCell.title = "Date Modified"; ObjectID = "86"; */
+"86.headerCell.title" = "修改日期";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "87"; */
+"87.title" = "文本单元格";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "88"; */
+"88.title" = "文本单元格";
+
+/* Class = "NSButtonCell"; title = "Import"; ObjectID = "93"; */
+"93.title" = "导入";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "95"; */
+"95.title" = "取消";
+
+/* Class = "NSTableColumn"; headerCell.title = "Size"; ObjectID = "100"; */
+"100.headerCell.title" = "尺寸";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "101"; */
+"101.title" = "文本单元格";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "108"; */
+"108.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "133"; */
+"133.title" = "文本单元格";
+
+/* Class = "NSTextFieldCell"; title = "(change user)"; ObjectID = "154"; */
+"154.title" = "（更改用户）";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "178"; */
+"178.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Add Account..."; ObjectID = "179"; */
+"179.title" = "添加帐户...";
+
+/* Class = "NSButtonCell"; title = "Sign out"; ObjectID = "195"; */
+"195.title" = "退出";
+

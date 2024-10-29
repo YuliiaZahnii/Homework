@@ -1,0 +1,6 @@
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Ventana";
+
+/* Class = "NSTextFieldCell"; title = "Explanatory text goes here..."; ObjectID = "x9E-gM-Fs1"; */
+"x9E-gM-Fs1.title" = "Aquí se presenta el texto explicativo...";
+

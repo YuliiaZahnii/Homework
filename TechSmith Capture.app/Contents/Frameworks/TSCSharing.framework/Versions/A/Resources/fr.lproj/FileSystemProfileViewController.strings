@@ -1,0 +1,24 @@
+/* Class = "NSButtonCell"; title = "Use last folder"; ObjectID = "01I-pQ-sYi"; */
+"01I-pQ-sYi.title" = "Utiliser le dernier dossier";
+
+/* Class = "NSButtonCell"; title = "Fixed folder"; ObjectID = "4Tn-at-Tvg"; */
+"4Tn-at-Tvg.title" = "Dossier fixe";
+
+/* Class = "NSButtonCell"; title = "Fixed file name"; ObjectID = "HNz-hu-Nle"; */
+"HNz-hu-Nle.title" = "Nom de fichier fixe";
+
+/* Class = "NSButtonCell"; title = "Ask for file name"; ObjectID = "RxT-ND-mlJ"; */
+"RxT-ND-mlJ.title" = "Demander le nom du fichier";
+
+/* Class = "NSTextFieldCell"; title = "⚠️ May overwrite existing files"; ObjectID = "Sca-JU-3IR"; */
+"Sca-JU-3IR.title" = "⚠️ Risque d’écraser des fichiers existants";
+
+/* Class = "NSButtonCell"; title = "Automatic file name"; ObjectID = "UWu-e7-fAP"; */
+"UWu-e7-fAP.title" = "Nom de fichier automatique";
+
+/* Class = "NSTextFieldCell"; title = "File name:"; ObjectID = "Z3Z-cG-C4L"; */
+"Z3Z-cG-C4L.title" = "Nom de fichier :";
+
+/* Class = "NSButtonCell"; title = "Browse..."; ObjectID = "ZYU-mw-u0Z"; */
+"ZYU-mw-u0Z.title" = "Parcourir...";
+

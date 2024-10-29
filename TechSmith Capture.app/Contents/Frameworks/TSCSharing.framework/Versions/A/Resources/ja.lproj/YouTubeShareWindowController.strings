@@ -1,0 +1,30 @@
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "0fv-Mb-cEr"; */
+"0fv-Mb-cEr.title" = "キャンセル";
+
+/* Class = "NSTextFieldCell"; title = "Description:"; ObjectID = "BW2-UJ-ao7"; */
+"BW2-UJ-ao7.title" = "説明:";
+
+/* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "E5c-dg-9N3"; */
+"E5c-dg-9N3.title" = "タイトル:";
+
+/* Class = "NSWindow"; title = "Share to YouTube"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "YouTube で共有";
+
+/* Class = "NSButtonCell"; title = "Upload"; ObjectID = "NSx-Nc-NmU"; */
+"NSx-Nc-NmU.title" = "アップロード";
+
+/* Class = "NSButtonCell"; title = "Public (anyone can search for and view)"; ObjectID = "OH8-cg-Rrh"; */
+"OH8-cg-Rrh.title" = "公開 (誰でも検索および閲覧可)";
+
+/* Class = "NSTextFieldCell"; title = "Privacy:"; ObjectID = "iLQ-6T-K19"; */
+"iLQ-6T-K19.title" = "プライバシー:";
+
+/* Class = "NSButtonCell"; title = "Ask for filename and location each time"; ObjectID = "keH-0b-sX7"; */
+"keH-0b-sX7.title" = "ファイル名と場所を毎回確認する";
+
+/* Class = "NSButtonCell"; title = "Unlisted (anyone with the link can view)"; ObjectID = "mqr-jy-96K"; */
+"mqr-jy-96K.title" = "限定公開 (リンクを知っているすべてのユーザーが閲覧可)";
+
+/* Class = "NSButtonCell"; title = "Private (only specific YouTube users can view)"; ObjectID = "odk-QD-ElO"; */
+"odk-QD-ElO.title" = "非公開 (特定の YouTube ユーザーのみ閲覧可)";
+
